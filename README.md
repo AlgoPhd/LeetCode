@@ -3,7 +3,6 @@
 
 # Algo PhD — LeetCode Solutions & Walkthroughs
 
-Clean, optimal LeetCode solutions in Java with AI-translated Python implementations. 
 Explanations hosted on [YouTube (@AlgoPhD)](https://www.youtube.com/@AlgoPhD).
 
 ---
